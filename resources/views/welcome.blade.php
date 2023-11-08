@@ -16,7 +16,7 @@
     </head>
     <body class="antialiased">
         <header class="p-5 border-b bg-white shadow">
-            <h1 class="text-3xl text-center font-black bg-red-400">Hola mundo</h1>
+            <h1 class="text-3xl text-center font-black bg-red-800 hover:bg-red-400 cursor-pointer">Hola mundo</h1>
         </header>
         
     </body>
